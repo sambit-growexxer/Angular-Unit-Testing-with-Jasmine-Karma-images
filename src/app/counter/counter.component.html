@@ -1,0 +1,8 @@
+<h2 *ngIf="count !== 0">Count: {{ count }}</h2>
+<h2 *ngIf="count === 0">No count yet</h2>
+
+<div class="btn-group">
+  <button (click)="increment()">Increment</button>
+  <button (click)="decrement()">Decrement</button>
+  <button (click)="reset()">Reset</button>
+</div>
