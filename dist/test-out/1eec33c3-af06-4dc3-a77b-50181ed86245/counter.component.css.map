@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/counter/counter.component.css"],
+  "sourcesContent": [":host {\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  font-family: Arial, sans-serif;\r\n  margin-top: 50px;\r\n}\r\n\r\nh2 {\r\n  font-size: 24px;\r\n  font-weight: bold;\r\n  margin-bottom: 20px;\r\n}\r\n\r\nbutton {\r\n  padding: 10px 20px;\r\n  margin: 5px;\r\n  font-size: 16px;\r\n  font-weight: 500;\r\n  border: none;\r\n  border-radius: 6px;\r\n  cursor: pointer;\r\n  transition: all 0.3s ease-in-out;\r\n}\r\n\r\nbutton:first-of-type {\r\n  background-color: #4CAF50;\r\n  color: white;\r\n}\r\n\r\nbutton:last-of-type {\r\n  background-color: #f44336;\r\n  color: white;\r\n}\r\n\r\nbutton:hover {\r\n  transform: scale(1.05);\r\n  opacity: 0.9;\r\n}\r\n"],
+  "mappings": ";AAAA;AACE,WAAS;AACT,kBAAgB;AAChB,eAAa;AACb,eAAa,KAAK,EAAE;AACpB,cAAY;AACd;AAEA;AACE,aAAW;AACX,eAAa;AACb,iBAAe;AACjB;AAEA;AACE,WAAS,KAAK;AACd,UAAQ;AACR,aAAW;AACX,eAAa;AACb,UAAQ;AACR,iBAAe;AACf,UAAQ;AACR,cAAY,IAAI,KAAK;AACvB;AAEA,MAAM;AACJ,oBAAkB;AAClB,SAAO;AACT;AAEA,MAAM;AACJ,oBAAkB;AAClB,SAAO;AACT;AAEA,MAAM;AACJ,aAAW,MAAM;AACjB,WAAS;AACX;",
+  "names": []
+}
